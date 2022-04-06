@@ -125,7 +125,7 @@
 .animated-text {
     font-family: monospace;
     overflow: hidden;
-    height: 1.2em;
+    height: 1.0em;
     word-wrap: break-word;
     white-space: nowrap;
     animation: typing 3s steps(8) forwards;
@@ -683,7 +683,7 @@ p {
     .animated-text {
         font-family: monospace;
         overflow: hidden;
-        height: 1.2em;
+        height: 1.0em;
         word-wrap: break-word;
         white-space: nowrap;
 
@@ -701,7 +701,7 @@ p {
 @media screen and (min-width: 440px) {
     .animated-text{
         margin-left: 15%;
-        height: 1.2em;
+        height: 1.0em;
     }
 }
 @media screen and (min-width: 380px) {
@@ -776,7 +776,7 @@ p {
     .animated-text {
         font-family: monospace;
         overflow: hidden;
-        height: 1.2em;
+        height: 1.0em;
         word-wrap: break-word;
         white-space: nowrap;
 
